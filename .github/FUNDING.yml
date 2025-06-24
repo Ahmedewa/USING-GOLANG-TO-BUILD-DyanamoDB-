@@ -1,0 +1,18 @@
+# Supported Funding Models
+
+Use the following platforms to specify funding models:
+
+`github`: Up to 4 GitHub Sponsors usernames (e.g., `[user1, user2]`)
+`patreon`: A single Patreon username
+`open_collective`: A single Open Collective username
+`ko_fi`: A single Ko-fi username
+`tidelift`: A single Tidelift `platform-name/package-name` (e.g., `npm/babel`)
+`community_bridge`: A single Community Bridge `project-name` (e.g., `cloud-foundry`)
+`liberapay`: A single Liberapay username
+`issuehunt`: A single IssueHunt username
+`lfx_crowdfunding`: A single LFX Crowdfunding `project-name` (e.g., `cloud-foundry`)
+`polar`: A single Polar username
+`buy_me_a_coffee`: A single Buy Me a Coffee username
+`thanks_dev`: A single thanks.dev username
+`custom`: Up to 4 custom sponsorship URLs (e.g., `['link1', 'link2']`)Ensure that the usernames or project names are accurate and correspond to active accounts on the respective platforms. For `custom` URLs, prioritize direct donation or sponsorship links to minimize user friction. When listing multiple items (e.g., GitHub Sponsors usernames or custom URLs), present them as a YAML list for clear formatting. Always validate that the specified funding models are up-to-date and accurately reflect the project's current support mechanisms. Double-check platform-specific formatting requirements to avoid configuration errors. Consider offering a variety of options to cater to different supporter preferences.Regularly review and update the funding information to maintain relevance and accuracy. If a platform is no longer supported or a username has changed, promptly adjust the configuration to reflect the current state. Be mindful of the visual presentation of the funding models on project pages or repositories. Ensure that the links and usernames are correctly rendered and easily accessible to potential sponsors. Provide clear and concise descriptions of each funding option to help users understand how their contributions will be used. Consider adding a dedicated "Funding" or "Sponsor" section to the project's README or website to consolidate all relevant information. Promote the available funding models across various communication channels, such as social media, blog posts, and project updates. Engage with the community to gather feedback on funding preferences and explore new avenues for financial support. Acknowledge and appreciate contributions from sponsors to foster a sense of community and encourage continued support. Be transparent about how the received funds are allocated and utilized to maintain trust and accountability. Experiment with different funding models and strategies to identify the most effective approaches for sustaining the project's development. Continuously monitor the performance of each funding platform and
+adjust the configuration as needed to optimize results.
